@@ -11,6 +11,6 @@ if __name__ == '__main__':
     print(add_num(6, -5))
     print(round(1.50))
 
-    result = map(func, list1)
+    result = map(func, list1)   #调用func，传入list1，返回一个迭代器
     print(result)
     print(list(result))
