@@ -1,2 +1,2 @@
-# hello-world
+# python project
 just  a exerciise
